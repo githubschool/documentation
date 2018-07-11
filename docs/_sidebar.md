@@ -1,4 +1,4 @@
 - [Home](/)
   - [Here's how you can get started](/get-started)
-- [Here is how to finish](/GettingFinshed)
+- [Here is how to finish](/GettingFinished)
 - [FAQ](/FAQ)
