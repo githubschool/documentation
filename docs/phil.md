@@ -1,5 +1,5 @@
 ## Phil's page
 
 1. London
-1. GBT
+1. GBP
 1. GMT
